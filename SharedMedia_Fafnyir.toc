@@ -1,8 +1,9 @@
 ## Interface: 100206
 ## Title: Fafnyir Media
-## IconTexture: Interface\AddOns\Fafnyir-Media\media\LogoAddon
+## IconTexture: Interface\AddOns\SharedMedia_Fafnyir\media\LogoAddon
 
 libs\LibStub\LibStub.lua
 libs\CallbackHandler-1.0\CallbackHandler-1.0.lua
+
 embeds.xml
 Fafnyir.lua
