@@ -1,5 +1,6 @@
 ## Interface: 100206
 ## Title: Fafnyir Media
+## Notes: Media used by FafnyirUI
 ## IconTexture: Interface\AddOns\SharedMedia_Fafnyir\media\LogoAddon
 
 libs\LibStub\LibStub.lua
