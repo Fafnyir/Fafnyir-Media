@@ -20,6 +20,7 @@ LSM:Register ("font", "- The Bold Font", [[Interface\Addons\SharedMedia_Fafnyir\
 LSM:Register ("font", "- The Medium Font", [[Interface\Addons\SharedMedia_Fafnyir\fonts\Fafnyir-Medium.ttf]])
 LSM:Register ("font", "- DAMAGE", [[Interface\Addons\SharedMedia_Fafnyir\fonts\Browood-Regular.ttf]])
 LSM:Register ("font", "- The Light Font", [[Interface\Addons\SharedMedia_Fafnyir\fonts\Fafnyir-Light.ttf]])
+LSM:Register ("font", "- Asul", [[Interface\Addons\SharedMedia_Fafnyir\fonts\Asul-Regular.ttf]])
 --   SOUND
 -- -----
 
